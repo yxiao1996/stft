@@ -11,6 +11,7 @@
     "ndarray-fft": "~0.0.2"
   },
   "devDependencies": {
+    "tap": "^15.0.2",
     "tape": "~1.0.4"
   },
   "scripts": {
